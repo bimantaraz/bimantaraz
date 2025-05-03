@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Bima</h1>
 
 <div align="center">
   <img height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"  />
@@ -9,10 +8,6 @@
 </div>
 
 <br clear="both">
-
-<h3 align="center">AI and Cyber ​​Security Developer from Indonesia</h3>
-
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -37,9 +32,6 @@
   </a>
   <a href="anugrahbima663@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://discord.gg/emp#5855" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 
