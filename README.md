@@ -1,45 +1,29 @@
-
 <div align="center">
   <img height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"  />
 </div>
-
+<br>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/bimantaraz/count.svg?"/>
-</div>
+<img src="https://tryhackme-badges.s3.amazonaws.com/bimantaraz.png" alt="Your Image Badge" />
 
+<br>
+<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""></img>
+<br>
+<h3>Languages and Tools</h3>
+<p>
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40" style="margin: 5px;">
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" height="40" style="margin: 5px;">
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="40" style="margin: 5px;">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" height="40" style="margin: 5px;">
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" height="40" style="margin: 5px;">
+  
+  <br>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="40" style="margin: 5px;">
+  <img src="https://cdn.simpleicons.org/kalilinux/557FFB" alt="Kali Linux" height="40" style="margin: 5px;">
+  <img src="https://cdn.simpleicons.org/metasploit/00698A" alt="Metasploit" height="40" style="margin: 5px;">
+  <img src="https://cdn.simpleicons.org/arm/4A4A4A" alt="SQLMap / SQL Injection" height="40" style="margin: 5px;">
+</p>
+</div>
 <br clear="both">
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" width="45" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="33" width="45" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="33" width="45" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="33" width="45" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" width="45" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="33" width="45" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="33" width="45" alt="pytorch logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="33" width="45" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="33" width="45" alt="linux logo"  />
-</div>
-
-<h3 align="left">Connect with me:</h3>
-
-<div align="left">
-  <a href="https://instagram.com/angrh_bima" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="anugrahbima663@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bimantaraz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
